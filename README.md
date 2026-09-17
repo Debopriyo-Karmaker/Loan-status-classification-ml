@@ -5,8 +5,8 @@ This repository contains a comprehensive machine learning pipeline designed to p
 This project was developed for **CSE 422: Artificial Intelligence** (Section 14) at BRAC University.
 
 ## Authors
-* **Debopriyo Karmaker** (ID: 23301636)
-* **Talha Bin Zakir** (ID: 23301079)
+* **Debopriyo Karmaker**
+* **Talha Bin Zakir** 
 
 ## Dataset Details
 The predictive models were trained and evaluated using a financial dataset (`14.csv`) consisting of **45,000 data points and 14 distinct features**[cite: 2]. 
